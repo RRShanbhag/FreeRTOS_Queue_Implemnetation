@@ -1,4 +1,4 @@
-# FreeRTOS_Queue_Implemnetation
+# FreeRTOS_Queue_Implementation
 Aim: To develop communication between two tasks. 
 
 2 tasks were implemented.
